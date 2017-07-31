@@ -1,0 +1,8 @@
+US Federal Reserve
+1	2007-08-09	76437-6-transferred
+2	2007-08-10	76437-7-entered	76437-15-raised	76437-18-called
+3	2007-W32	76437-9-met
+4	2008-09-17	113219-14-pulled	113219-3-This	113219-3-bailout	113219-14-refusal
+5	2008-09-18	113278-3-announced	113278-5-arranged	113278-8-stated	113278-3-crush	113278-5-Totaling	113278-8-press
+6	2008-W37	113219-14-difficulties
+	

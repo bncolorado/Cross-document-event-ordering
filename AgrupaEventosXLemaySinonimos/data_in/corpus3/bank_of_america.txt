@@ -1,0 +1,11 @@
+Bank of America
+1	2008-XX-XX	141483-4-gained
+2	2008-09-17	113219-14-pulled	113219-14-refusal
+3	2008-10-07	114613-8-fared
+4	2008-W37	113219-14-difficulties
+5	2009-01-20	121225-15-dropped
+6	2009-03-09	121978-7-losing
+7	2009-03-13	122475-9-announced	122475-9-was
+8	2009-10-16	141483-2-announced	141483-8-close	141483-0-losses	141483-5-challenge	141483-3-losses	141483-5-remain	141483-5-that	141483-6-heartened
+0	XXXX-XX-XX	141483-0-reports	141483-2-lost
+	

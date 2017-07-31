@@ -1,0 +1,7 @@
+Boeing 777
+1	2000-02-XX	4764-6-announced
+2	2005-02-17	4764-6-received	4764-2-unveiled
+3	2005-04-27	8983-11-built	8983-2-secured	8983-2-landing	8983-13-flight
+4	2005-06-13	11716-4-purchase
+5	777	4764-0-unveils
+	

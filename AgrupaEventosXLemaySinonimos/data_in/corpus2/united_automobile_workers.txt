@@ -1,0 +1,7 @@
+United Automobile Workers
+1	2006-01-23	31706-24-issued
+2	2008-12-12	118147-4-refused	118147-3-agree
+3	2009-02-03	120554-6-seeking	120554-6-offer
+4	2009-05-01	125796-3-owned
+5	2009-06-04	127248-10-stated	127248-10-support	127248-10-plan
+	

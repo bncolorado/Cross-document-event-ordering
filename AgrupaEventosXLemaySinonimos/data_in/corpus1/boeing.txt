@@ -1,0 +1,37 @@
+Boeing
+1	2000-02-XX	4764-6-announced
+2	2003-07-24	5403-0-allowed	5403-2-announced	5403-3-suspended	5403-3-violating	5403-5-signed	5403-7-submit	5403-6-suspension
+3	2004-XX-XX	11716-6-sold
+4	2004-11-24	1173-6-negotiations	1173-29-used	1173-35-hired	1173-4-favored	1173-10-choosing	1173-10-replace	1173-28-criticism	1173-28-talks	1173-34-work	1173-0-discussions	1173-2-deal	1173-4-deal	1173-4-deal	1173-5-deal
+5	2005-XX-XX	11716-7-received
+6	2005-01-XX	41882-8-announced
+7	2005-01-18	3307-3-take	3307-2-unveiled	3307-4-flight	3307-2-plans	3307-5-sales	3307-5-project
+8	2005-01-29	3835-0-purchase	3835-4-delivered	3835-2-purchase	3835-7-production
+9	2005-02-17	4764-6-received	4764-2-unveiled	4764-11-flying	4764-4-named	4764-11-out-sold
+10	2005-03-06	5403-0-bid	5403-2-allowed	5403-2-bid	5403-7-taken
+11	2005-04-XX	73808-12-flew	73808-12-illustrates
+12	2005-04-27	8983-0-secures	8983-11-built	8983-14-scheduled	8983-2-secured	8983-2-landing	8983-13-flight	8983-14-development
+13	2005-06-13	11714-2-announced	11714-2-exercising	11714-2-purchase	11716-4-purchase	11716-3-dispute	11716-6-lost	11714-5-choice
+14	2006-XX-XX	71526-7-negotiations	100911-19-challenged	71526-7-deal
+15	2006-01-XX	4764-7-delivered
+16	2006-05-23	41882-2-delivered
+17	2006-05-29	41882-0-delivers
+18	2006-06-13	11714-0-exercises
+19	2007-06-09	71426-6-approached
+20	2007-06-10	71526-11-replied	71526-0-purchase	71526-13-entered	71526-15-promised	71526-2-purchase	71526-2-development	71526-11-deal	71526-11-relationship	71526-12-policy	71526-13-deal	71526-15-deal
+21	2007-07-07	73808-5-said	73808-9-announced	73808-14-received
+22	2007-07-09	73808-0-unveils	73808-7-claims	73808-12-enter	73808-13-aimed	73808-17-celebrate	73808-2-unveiled	73808-5-celebrate	73808-13-targeted
+23	2008-02-XX	102977-9-defeated
+24	2008-02-29	108294-4-build
+25	2008-03-01	100911-0-defeat	100911-2-supply	100911-4-fought	100911-10-denied	100911-2-defeated	100911-21-tapped	100911-23-favored	100911-27-award	100911-10-promising	100911-20-statement	100911-21-bases
+26	2008-03-27	102977-9-win
+27	2008-05-24	106653-2-announced	106653-2-pushed	106653-2-saying	106653-14-said	106653-14-continuing	106653-4-say	106653-14-effort
+28	2008-06-18	108294-4-selected	108294-5-upheld	108294-4-award	108294-4-evaluation	108294-5-protest	108294-5-claims
+29	2008-07-02	108294-4-challenged	108294-4-protest	108294-4-claiming	108294-4-skewed	108294-6-competition
+30	2009-05-24	106653-0-pushes
+31	2009-12-15	145930-0-flight
+32	2009-12-16	145930-3-claims	145930-8-preparing	145930-6-attracted	145930-2-test	145930-8-release
+33	2011-08-08	276079-0-rolls	276079-5-says	276079-15-says	276079-13-rolling	276079-2-rolled	276079-2-delivery
+34	777	4764-0-unveils
+0	XXXX-XX-XX	1173-13-gained	1173-13-manufacturers
+	

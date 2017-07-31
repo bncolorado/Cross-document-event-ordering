@@ -1,0 +1,6 @@
+Barack Obama
+1	2009-03-31	123881-7-said	123881-32-said
+2	2009-04-30	125796-11-said
+3	2009-05-01	125796-11-demonstrated	125796-15-ultimatums
+4	2009-06-01	127227-3-Describing	127227-4-stated	127227-5-stated	127227-8-stated	127227-8-described	127227-9-pointed	127227-11-stated	127227-12-stated	127227-12-described	127227-13-said	127227-14-described	127227-2-presented	127227-2-announcement	127227-9-stated	127227-3-explained	127227-5-thanked	127227-8-refused	127227-10-stated	127227-12-anticipated	127227-14-concluding	127227-0-presents	127227-0-plan	127227-0-declaration	127227-0-bankruptcy	127227-2-plan	127227-2-bankruptcy	127227-2-protection	127227-2-bankruptcy	127227-3-proposed	127227-3-plan	127227-4-problem	127227-5-plan	127227-8-bankruptcy	127227-9-bankruptcy	127227-10-Responding
+	

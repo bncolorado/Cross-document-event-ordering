@@ -1,0 +1,11 @@
+Singapore Airlines
+1	2005-04-27	8951-17-operate
+2	2005-11-05	25501-4-display	25501-4-launch	25501-5-wear	25501-4-stop
+3	2006-07-XX	8951-17-opened
+4	2006-10-05	51682-2-says	51682-9-stated	51682-2-compensated	51682-9-fly	51682-9-receiving	51682-2-delivery
+5	2007-03-19	62929-9-Deliveries
+6	2007-10-05	51682-0-compensated
+7	2007-10-15	82548-2-delivered	82548-2-made
+8	2007-10-17	82597-4-applauded	82597-4-success
+0	XXXX-XX-XX	25501-5-arrives
+	

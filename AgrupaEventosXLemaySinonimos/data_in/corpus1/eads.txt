@@ -1,0 +1,6 @@
+EADS
+1	2008-02-XX	102977-9-defeated
+2	2008-03-01	100911-0-defeat	100911-2-supply	100911-15-announced	100911-2-defeated	100911-35-commented
+3	2008-03-27	102977-0-wins	102977-2-won	102977-2-replace	102977-9-win
+4	2008-07-02	108294-3-assemble	108294-3-plan
+	
