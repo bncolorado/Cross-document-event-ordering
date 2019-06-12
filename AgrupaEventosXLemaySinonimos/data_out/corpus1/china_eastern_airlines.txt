@@ -1,0 +1,6 @@
+China Eastern Airlines
+1	2005-01-29	3835-4-delivered
+1	2005-01-29	3835-7-production
+2	2009-06-18	128016-0-purchase	128016-2-purchase
+2	2009-06-18	128016-2-signed
+2	2009-06-18	128016-2-stated

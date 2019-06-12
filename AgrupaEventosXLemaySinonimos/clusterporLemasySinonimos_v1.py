@@ -42,14 +42,14 @@ def agrupaPorSynset(words):
 		j=i
 		for e2 in lexicon.items():
 			while j <=len(lexicon.items())-1:
-				#print i, j
-				#print lexicon.items()[i][0], lexicon.items()[j][0]
-				a = lexicon.items()[i][1][1]
-				b = lexicon.items()[j][1][1]
+				#print(i, j)
+				#print(list(lexicon.items())[i][0], list(lexicon.items())[j][0])
+				a = list(lexicon.items())[i][1][1]
+				b = list(lexicon.items())[j][1][1]
 				if set(a) & set(b) != set([]):
-					if lexicon.items()[i][0] != lexicon.items()[j][0]:
+					if list(lexicon.items())[i][0] != list(lexicon.items())[j][0]:
 						#out[lexicon.items()[i][0]]=lexicon.items()[j][0]
-						out[evento].append(lexicon.items()[j][1][0])
+						out[evento].append(list(lexicon.items())[j][1][0])
 						#print 'correferentes', lexicon.items()[i][0], lexicon.items()[j][0]
 				#else:
 				#	if lexicon.items()[i][0] not in out['NoCorreferentes']:
@@ -91,8 +91,8 @@ corpus_path_out = 'data_out/corpus1/'
 for base, directorios, ficheros in os.walk(corpus_path):
 	for fichero in ficheros:
 		fch = corpus_path+fichero
-		print 'Agrupando eventos fichero '+fichero
-		f = open(fch, 'rU').read()
+		print('Agrupando eventos fichero '+fichero)
+		f = open(fch, 'r').read()
 
 
 		entidad = f.split('\n')[0]
@@ -132,7 +132,7 @@ for base, directorios, ficheros in os.walk(corpus_path):
 			#print agrupacion_verbos
 
 			#Elimina los eventos que ya están agrupados y se han quedado sueltos. Hay que eliminarlos porque si no aparecen repetidos: en una línea sueltos, y en otra línea como correferentes a otro evento.
-			for item in agrupacion_verbos.values():
+			for item in list(agrupacion_verbos.values()):
 				if len(item) > 1:
 					for i in item:
 						word = i.split('-')[2]
@@ -145,7 +145,7 @@ for base, directorios, ficheros in os.walk(corpus_path):
 								del agrupacion_verbos[lema]
 
 
-			for l in agrupacion_verbos.values():
+			for l in list(agrupacion_verbos.values()):
 				#print l
 				linea = fecha
 				for v in l:
@@ -171,4 +171,4 @@ for base, directorios, ficheros in os.walk(corpus_path):
 		cluster.close()
 
 
-print 'Hecho'
+print('Hecho')
