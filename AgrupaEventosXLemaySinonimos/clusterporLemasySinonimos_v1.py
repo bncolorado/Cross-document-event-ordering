@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Febrero 2016.
+Febrero 2016 - junio 2019
 
 Toma una lista de verbos y los agrupa si tienen el mismo lema o si son sinónimos, es decir, comparten el mismo synset de WordNet.
 Dependencia con NTLK - WordNet (http://www.nltk.org/install.html)
